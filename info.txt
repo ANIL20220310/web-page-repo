@@ -1,0 +1,1 @@
+nano is the text editor, you can also use vi editor.
